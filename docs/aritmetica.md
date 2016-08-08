@@ -9,4 +9,4 @@ Além disso, o JavaScript suporta operações matemáticas mais complexas utiliz
 | Math.pow(2,53) | 2 elevado a 53 potência |
 | Math.round(.6) | arredonda para o inteiro mais próximo |
 | Math.max(x,y,z)| Retorna o maior argumento |
-| Math.min(x,y,z)| Retorna o maior argumento |
+| Math.min(x,y,z)| Retorna o menor argumento |
